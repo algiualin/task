@@ -7,3 +7,6 @@
 //
 
 import Foundation
+
+
+var tasks = [Task]()

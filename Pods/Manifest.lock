@@ -1,0 +1,15 @@
+PODS:
+  - RMActionController (1.0.5)
+  - RMDateSelectionViewController (2.0.3):
+    - RMActionController (~> 1.0.5)
+
+DEPENDENCIES:
+  - RMDateSelectionViewController (~> 2.0.3)
+
+SPEC CHECKSUMS:
+  RMActionController: b83653e7452ed51492094d65dc82151c36443c03
+  RMDateSelectionViewController: 354a0f1fe40bac01054528b7a8735f2973bbd813
+
+PODFILE CHECKSUM: 3036b62ccba00b078bad1db56533b02f30149943
+
+COCOAPODS: 1.0.0.beta.3
